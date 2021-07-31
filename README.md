@@ -8,7 +8,7 @@
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
 
 ### 🎭 Social Handles 👇 
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>] [LinkedIn](https://www.linkedin.com/in/va14/)
+- <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>[LinkedIn](https://www.linkedin.com/in/va14/)
 -  [Twitter](https://twitter.com/va_a14)
 -  [Instagram](https://www.instagram.com/va_a14/)
 
