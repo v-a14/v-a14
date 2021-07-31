@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎭 I Love maths and Competitive Programming 
+- 🎼 Loves old Classical Music  
+- 👯 Addicted to learning and growing everyday
+- 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
+- 💬 Ask me about anything.
+- 📫 How to connect with me: 
+-     ◻️ LinkedIn:  https://www.linkedin.com/in/va14/
+-     ◻️ Instagram: https://www.instagram.com/va_a14/
+      ◻️ Twitter:   https://twitter.com/va_a14
+- Coding Handles:
+      💨 Codechef:   https://www.codechef.com/users/va14
+      💨 Codeforces: https://codeforces.com/profile/va14
+      💨 LeetCode:   https://leetcode.com/va14/
+      💨 GFG:        https://auth.geeksforgeeks.org/user/va14
 -->
