@@ -4,7 +4,7 @@
 - 🎭 I Love maths and Competitive Programming 
 - 👯 Addicted to learning and growing everyday
 - 🎼 Loves old hindi songs
-- ♊ Learning phase of Web Development 
+- ♊ In learning phase of Web Development 
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
 - 💬 Ask me about anything.
 - 📫 How to find me: 
