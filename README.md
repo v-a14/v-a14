@@ -7,9 +7,9 @@
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
 - 💬 Ask me about anything.
 - 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  -  [Medium articles](https://medium.com/@khuyentran1476)
+  -  [Daily Tips](https://mathdatasimplified.com/)
+  -  [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
 - Coding Handles:
      - 💨 Codechef:   https://www.codechef.com/users/va14
      - 💨 Codeforces: https://codeforces.com/profile/va14
