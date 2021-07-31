@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-twitter.png?w=585&scale=down" style = "color:#d4af37"/>][Twitter]
 
 
-- Coding Handles:
+### Coding Handles:
      - 📒 [Codechef](https://www.codechef.com/users/va14)
      - 📘 [Codeforces](https://codeforces.com/profile/va14)
      - 📙 [LeetCode](https://leetcode.com/va14/)
