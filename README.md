@@ -13,11 +13,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-twitter.png?w=585&scale=down" style = "color:#d4af37"/>][Twitter]
 
 
-### Coding Handles:
-     - 📒 [Codechef](https://www.codechef.com/users/va14)
-     - 📘 [Codeforces](https://codeforces.com/profile/va14)
-     - 📙 [LeetCode](https://leetcode.com/va14/)
-     - 📗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/va14)
+### Coding Handles
+- 📒 [Codechef](https://www.codechef.com/users/va14)
+- 📘 [Codeforces](https://codeforces.com/profile/va14)
+- 📙 [LeetCode](https://leetcode.com/va14/)
+- 📗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/va14)
 
 -[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=v-a14&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
