@@ -9,8 +9,8 @@
 - 💬 Ask me about anything.
 - 📫 How to find me: 
 - 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][LinkedIn]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][Instagram]
   -  👉[LinkedIn](https://www.linkedin.com/in/va14/)
   -  👉[Twitter](https://twitter.com/va_a14)
   -  👉[Instagram](https://www.instagram.com/va_a14/)
