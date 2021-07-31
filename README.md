@@ -6,9 +6,8 @@
 - 🎼 Loves old hindi songs
 - ♊ In learning phase of Web Development 
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
-- 💬 Ask me about anything.
-- 📫 How to find me: 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][LinkedIn]
+- 📫 Let's Connect : 
+-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][LinkedIn]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][Instagram]
 
 
