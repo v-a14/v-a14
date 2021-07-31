@@ -2,8 +2,9 @@
 
 
 - 🎭 I Love maths and Competitive Programming 
-- 🎼 Loves old Classical Music  
 - 👯 Addicted to learning and growing everyday
+- 🎼 Loves old hindi songs
+- ♊ Learning phase of Web Development 
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
 - 💬 Ask me about anything.
 - 📫 How to find me: 
