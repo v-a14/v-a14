@@ -20,4 +20,4 @@ Here are some ideas to get you started:
       💨 LeetCode:   https://leetcode.com/va14/
       💨 GFG:        https://auth.geeksforgeeks.org/user/va14
 -->
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=v-a14&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
