@@ -6,7 +6,9 @@
 - 🎼 Loves old hindi songs
 - ♊ In learning phase of Web Development 
 - 🤔 Undergrad in JC Bose University, YMCA pursuing Electronics and Computer Engineering 
-- 🎭 Social Handles:  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][LinkedIn]
+- 🎭 Social Handles:
+- 🎭 Social Handles:
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  style = "color:#d4af37"/>][LinkedIn]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style = "color:#d4af37"/>][Instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.net-aware.org.uk/siteassets/images-and-icons/application-icons/app-icons-twitter.png?w=585&scale=down" style = "color:#d4af37"/>][Twitter]
 
