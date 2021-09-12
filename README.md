@@ -1,4 +1,7 @@
+![](https://komarev.com/ghpvc/?username=parag56&color=blue&label=PROFILE+VIEWS)
+
 ### Welcome 👋
+
 
 
 - 🎭 I Love maths and Competitive Programming 
