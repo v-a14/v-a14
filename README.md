@@ -22,11 +22,11 @@
 
 
 ### 💻 Coding Handles 👇 
-- 📒 [Codechef](https://www.codechef.com/users/va14)
-- 📘 [Codeforces](https://codeforces.com/profile/va14)
-- 📙 [LeetCode](https://leetcode.com/va14/)
-- 📗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/va14)
-- 📕 [InterviewBit](https://www.interviewbit.com/profile/va14)
+- 📒 [Codechef](https://www.codechef.com/users/)
+- 📘 [Codeforces](https://codeforces.com/profile/)
+- 📙 [LeetCode](https://leetcode.com/)
+- 📗 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/)
+- 📕 [InterviewBit](https://www.interviewbit.com/profile/)
 
 ### 📁[PortFolio](https://v-a14.github.io/PortFolio/)<br>
 <hr>
